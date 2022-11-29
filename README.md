@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Irina
+- 👀 I’m interested in python development
+- 🌱 I’m currently learning python language
+- 📫 How to reach me telegram : @Ireny_a , +375447605721
