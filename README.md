@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Irina
-- 👀 I’m interested in python development
-- 🌱 I’m currently learning python language
-- 📫 How to reach me telegram : @Ireny_a , +375447605721
+- 👋 Hello! My name is Irina.
+- 👀 I’m interested in python development.
+- 🌱 I am learning the Python programming language, creating projects and constantly developing my skills. On GitHub, I post my projects and ideas for discussion and collaboration with the whole world. I will be glad to communicate with other enthusiasts and the possibility of mutual assistance!
+- 📫 How to reach me. telegram : @Ireny_a , phone number: +375447605721
